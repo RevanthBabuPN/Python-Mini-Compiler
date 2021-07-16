@@ -7,4 +7,4 @@ We know that there are too many folders in the repo. Go to [FINAL](https://githu
 The parser file is `parser_file_with_values.y` and the lexer file is `lex_file.l`
 The tests file are in `Code_Optimization/tests` folder of the `FINAL` folder.
 
-Made as a part of Compiler Design Subject for 6th semester by [Revanth](https://github.com/RevanthBabuPN), [Sahith](https://github.com/Sahith02) and [me](https://github.com/sreyansb).
+Made as a part of Compiler Design Subject for 6th semester by [Revanth](https://github.com/RevanthBabuPN), [Sahith](https://github.com/Sahith02) and [Sreyans](https://github.com/sreyansb).
